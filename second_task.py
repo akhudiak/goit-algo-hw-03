@@ -14,5 +14,5 @@ def get_numbers_ticket(min, max, quantity):
         return []
 
 
-lottery_numbers = get_numbers_ticket(10, 4, 6)
-print("Ваші лотерейні числа:", lottery_numbers)
+# lottery_numbers = get_numbers_ticket(10, 4, 6)
+# print("Ваші лотерейні числа:", lottery_numbers)
